@@ -1,0 +1,1 @@
+powershell -executionpolicy Unrestricted -file Install.ps1 
